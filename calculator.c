@@ -60,7 +60,7 @@ int main()
                     printf("Multiplication:%d\n",num1*num2);
                     break;
                     case 4:
-                    printf("Division:%d\n",num1/num2);
+                    printf("Division:%f\n",num1/num2);
                     break;
                     case 5:
                     printf("Remainder/Modulus:%d\n",num1%num2);
